@@ -1,0 +1,4 @@
+/AWS_CDK/node_modules
+/AWS_CDK/cdk.out
+/AWS_Terraform/*terraform*
+
